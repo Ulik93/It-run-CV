@@ -5,8 +5,8 @@
 ##### Kyrgyzstan, Bishkek
 
 #### Hello, My name is Ulukbek! 
-####My goal of life is to reach IT heights and be claimed Frond-end Developer, because it is really important job nowadays.
-##My personal skills:
+#### My goal of life is to reach IT heights and be claimed Frond-end Developer, because it is really important job nowadays.
+## My personal skills:
 * hard worker
 * fast learner
 * punctual
@@ -28,7 +28,7 @@ burger.addEventListener ('click', ()=>{
     topMenu.classList.toggle ('show')
 });
 ```
-###This is my projects in It-Run courses:
+### This is my projects in It-Run courses:
 [It-run] 
 * https://ulik93.github.io/itproject/
 * https://ulik93.github.io/bootstrap/
